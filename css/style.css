@@ -1,0 +1,116 @@
+
+
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap");
+
+@font-face {
+    font-family: "Larsseit";
+    src: url("../fonts/Larsseit-Regular.woff2"); src: format("woft2");
+    src: url("../fonts/Larsseit-Regular.woff"); src: format("woft");
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+    }
+@font-face {
+    font-family: "Larsseit";
+    src: url("../fonts/Larsseit-Medium.woff2"); src: format("woft2");
+    src: url("../fonts/Larsseit-Medium.woff"); src: format("woft");
+    font-display: swap;
+    font-weight: 500;
+    font-style: normal;
+    }   
+@font-face {
+    font-family: "Larsseit";
+    src: url("../fonts/Larsseit-Bold.woff2"); src: format("woft2");
+    src: url("../fonts/Larsseit-Bold.woff"); src: format("woft");
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+    
+    }
+@font-face {
+    font-family: "Lato";
+    src: url("../fonts/Lato-Regular.woff2"); src: format("woft2");
+    src: url("../fonts/Lato-Regular.woff"); src: format("woft");
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+    }
+@font-face {
+    font-family: "Lato";
+    src: url("../fonts/Lato-Bold.woff2"); src: format("woft2");
+    src: url("../fonts/Lato-Bold.woff"); src: format("woft");
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+    }
+@font-face {
+    font-family: "Lato";
+    src: url("../fonts/Lato-Black.woff2"); src: format("woft2");
+    src: url("../fonts/Lato-Black.woff"); src: format("woft");
+    font-display: swap;
+    font-weight: 900;
+    font-style: normal;
+    }
+@font-face {
+    font-family: "Caveat";
+    src: url("../fonts/Caveat-Regular.woff2"); src: format("woft2");
+    src: url("../fonts/Caveat-Regular.woff"); src: format("woft");
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+    }
+@font-face {
+    font-family: "Rubik Moonrocks";
+    src: url("../fonts/RubikMoonrocks-Regular.woff2"); src: format("woft2");
+    src: url("../fonts/RubikMoonrocks-Regular.woff"); src: format("woft");
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+}
+
+* {
+    font-family: "Larsseit";
+    font-weight: 400;
+    color: rgb(8, 69, 8);
+
+}
+
+.big,
+.small {
+    font-family: "Rubik Moonrocks";
+    font-weight: 400;
+    color: rgb(86, 14, 14);
+}
+
+ol.average a{
+    font-family: "Caveat";
+    font-weight: 700;
+    color: rgb(78, 11, 141);
+}
+
+.text p {
+    font-family: "Lato";
+    font-weight: 600;
+    color: rgb(14, 14, 88);
+}
+
+.average p {
+    font-family: "Caveat";
+    font-weight: 700;
+    color: rgb(223, 11, 11);
+}
+
+p.small {
+    color: black;
+}
+
+#five {
+    font-family: "Lato";
+    font-weight: 900;
+    color: rgb(224, 111, 5);
+}
+
+#ork {
+    font-weight: 100;
+    color: red;
+}
